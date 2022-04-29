@@ -1,0 +1,7 @@
+Cisco-SD-WAN-Full-Postman-Collection
+Copyright (c) 2022 Adem Atikturk
+
+This repo contains configuration files for Postman to use with Cisco SDWAN vManage. 
+
+FILE: cisco-sdwan-full-collection.json          CREATED BY ADEM ATIKTURK
+FILE: dCloud-SD-WAN.postman_environment.json    CREATED BY CISCO
