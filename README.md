@@ -1,9 +1,12 @@
 # Postman collection for Cisco SD-WAN vManage API (20.6.2)
 
 This Postman collection includes all vManage API endpoints for version 20.6.2
-You can use the environment file provided in this repo.
+You can also use the environment file provided in this repo which is for dCloud SDWAN LAB.
 
-Included files in this repo
+There's a similar repo created by Cisco  which includes several but not all endpoints. It can be found [here](https://github.com/CiscoDevNet/Postman-for-Cisco-SD-WAN)
+
+
+List of included files in this repo
 ~~~
 1 - cisco-sdwan-full-collection.json
 2 - dCloud-SD-WAN.postman_environment.json
